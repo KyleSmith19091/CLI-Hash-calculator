@@ -1,0 +1,1 @@
+# CLI-Hash-Calculator
